@@ -1,0 +1,2 @@
+# -Multi-Application-Production-Deployment-on-Shared-Backend
+This project implements a multi-application deployment where 3 independent frontend applications All share:✔One Laravel backend✔MySQL database✔cloud server✔storage infrastructure✔ One fully automated CI/CD pipeline  The goal was to deliver a scalable, secure, optimized, &amp; cost-efficient architecture suitable for real-world production workloads.
