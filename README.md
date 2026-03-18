@@ -1,4 +1,4 @@
-# 🌐 Multi-Application Production Deployment on Shared Backend  
+# 🌐 Resource-Optimized Multi-Application Deployment Strategy  
 ### **Role:** DevOps Engineer / Cloud Infrastructure Engineer  
 ### **Server:** Hosted on (DigitalOcean)  
 ### **Technologies:** Laravel, MySQL, Nginx, Ubuntu, CI/CD, VTpass, Paystack, DigitalOcean Spaces  
